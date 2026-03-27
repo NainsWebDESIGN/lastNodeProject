@@ -1,27 +1,23 @@
 # TestUpdateNode
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+### 環境
+```
+node.js@22.11.0
+npm@10.9.0
+Angular-CLI@1.6.3
+TypeScript@~2.5.3
+Rxjs@5.5.6
+```
+---
 
-## Development server
+> [!IMPORTANT]
+> 重要事項
+> 
+> npm i 時改為```npm i --legacy-peer-deps```
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+> [!NOTE]
+> 說明
+>
+> 高版本 Node.js 與低版本 CLI 共存的無汙染新專案
